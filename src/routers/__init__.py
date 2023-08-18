@@ -1,0 +1,1 @@
+from .captcha_api import router as captcha_router

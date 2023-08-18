@@ -1,0 +1,1 @@
+from .captcha_gen import captcha_generator
