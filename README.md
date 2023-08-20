@@ -5,7 +5,7 @@
 A captcha api that written in fastapi, python
 
 # Installation
-for deploying this api pn your vps you should have python3.9+
+for deploying this api on your vps you should have python3.9+
 Install it and run the following commands:
 ```bash
 # Clone the repository
